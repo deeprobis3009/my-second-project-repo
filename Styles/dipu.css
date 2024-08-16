@@ -21,7 +21,6 @@
 .body{
     font-family: "Inter", sans-serif;
     background-color: var(--background-primary);
-    background-color: black;
 }
 .btn-primary{
     font-size: 1.12rem;
